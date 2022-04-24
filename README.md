@@ -1,5 +1,5 @@
 ### Hi there i m Abdelhalim Ben Oun 👋 a Software Developer
-<h3 align="left">CV</h3>
+<h3 align="left">Check my CV</h3>
 <p align="left">
 <a href="https://rxresu.me/abdelhalimbenoun/eng-sousse" target="blank">CV</a>
 </p>
