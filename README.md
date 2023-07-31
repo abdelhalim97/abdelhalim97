@@ -1,4 +1,4 @@
-### Hi there i m Abdelhalim Ben Oun 👋 a Software Developer
+### Hi there i m Abdelhalim Ben Oun 👋 a Software Engineer
 <h3 align="left">Check my CV</h3>
 <p align="left">
 <a href="https://flowcv.com/resume/j9s08w0ruo" target="blank">CV</a>
