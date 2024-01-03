@@ -31,7 +31,7 @@ https://www.stackery.io/assets/images/posts/redis-cache-cluster-support/featured
   <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="swagger" width="40" height="40"/> </a>
  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://socket.io/images/logo.svg" alt="postgresql" width="40" height="40"/> </a>
-   <a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://www.stackery.io/assets/images/posts/redis-cache-cluster-support/featured.svg" alt="redis" width="40" height="40"/> </a>
+   <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://www.stackery.io/assets/images/posts/redis-cache-cluster-support/featured.svg" alt="redis" width="40" height="40"/> </a>
 
   <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelhalim97&show_icons=true&theme=dark&locale=en" alt="abdelhalim97" /></p>
