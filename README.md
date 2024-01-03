@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/abdelhalim-ben-oun-31323515a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdelhalim-ben-oun-31323515a/" height="30" width="40" /></a>
 </p>
-
+https://www.stackery.io/assets/images/posts/redis-cache-cluster-support/featured.svg
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -31,7 +31,8 @@
   <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="swagger" width="40" height="40"/> </a>
  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://socket.io/images/logo.svg" alt="postgresql" width="40" height="40"/> </a>
- 
+   <a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://www.stackery.io/assets/images/posts/redis-cache-cluster-support/featured.svg" alt="redis" width="40" height="40"/> </a>
+
   <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelhalim97&show_icons=true&theme=dark&locale=en" alt="abdelhalim97" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelhalim97&theme=dark" alt="abdelhalim97" /></p>
