@@ -10,7 +10,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/abdelhalim-ben-oun-31323515a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdelhalim-ben-oun-31323515a/" height="30" width="40" /></a>
 </p>
-https://www.stackery.io/assets/images/posts/redis-cache-cluster-support/featured.svg
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
