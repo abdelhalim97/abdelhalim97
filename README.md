@@ -33,9 +33,11 @@
    <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://www.stackery.io/assets/images/posts/redis-cache-cluster-support/featured.svg" alt="redis" width="40" height="40"/> </a>
 
   <br>
+  <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelhalim97&show_icons=true&theme=dark&locale=en" alt="abdelhalim97" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelhalim97&theme=dark" alt="abdelhalim97" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelhalim97&show_icons=true&theme=dark&locale=en&layout=compact" alt="abdelhalim97" /></p>
+-->
 
 
 
