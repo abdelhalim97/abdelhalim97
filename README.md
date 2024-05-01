@@ -31,6 +31,7 @@
  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://socket.io/images/logo.svg" alt="postgresql" width="40" height="40"/> </a>
    <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://www.stackery.io/assets/images/posts/redis-cache-cluster-support/featured.svg" alt="redis" width="40" height="40"/> </a>
+   <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="https://jestjs.io/img/opengraph.png" alt="jest" width="40" height="40"/> </a>
 
   <br>
   <!--
