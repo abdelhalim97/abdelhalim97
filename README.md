@@ -20,7 +20,6 @@
  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
   <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/elixir_lang_logo_icon_169207.png" alt="express" width="40" height="40"/> </a>
    <a href="https://hexdocs.pm/phoenix/Phoenix.html" target="_blank" rel="noreferrer"> <img src="https://hexdocs.pm/phoenix/assets/logo.png" alt="express" width="40" height="40"/> </a>
-
  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs" width="40" height="40"/> </a>
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://graphql.org/img/logo.svg" alt="Graphql" width="40" height="40"/> </a>
